@@ -1,0 +1,5 @@
+.env
+logs
+tests
+plugins
+__pycache__
